@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Layout() {
+export default function Homee() {
   return (
     <div>
   <h1>home</h1>
@@ -11,4 +11,3 @@ function Layout() {
 }
 
 
-export default Layout;

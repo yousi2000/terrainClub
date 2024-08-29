@@ -1,19 +1,19 @@
 
-import React from 'react';
-import { Outlet } from 'react-router-dom';
+// import React from 'react';
+// import { Outlet } from 'react-router-dom';
 
 
-function Layout() {
-  return (
-    <div>
+// function Layout() {
+//   return (
+//     <div>
     
-      <main>
-        <Outlet /> {/* Ceci rend les composants enfants (Home, Login, etc.) */}
-      </main>
+//       <main>
+//         <Outlet /> {/* Ceci rend les composants enfants (Home, Login, etc.) */}
+//       </main>
       
-    </div>
-  );
-}
+//     </div>
+//   );
+// }
 
 
-export default Layout;
+// export default Layout;

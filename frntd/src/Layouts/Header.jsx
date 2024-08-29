@@ -3,7 +3,7 @@ import { Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function Header(){
+export default function Header() {
   return (
   <>
   <nav className="navbar navbar-dark bg-dark container-fluid">
@@ -42,5 +42,4 @@ function Header(){
      
      </nav>
   </>)
-}
-export default Header();
+};
