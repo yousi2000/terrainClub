@@ -1,0 +1,17 @@
+.signup{
+  border: 1px solid #817e7e;
+  padding: 8%;
+  margin-top: 4%;
+  background-image: url(images/bg1.webp);
+  color:aquamarine;
+  border-radius: 2%;
+
+}
+.login{
+  border: 1px solid #817e7e;
+  padding: 8%;
+  margin-top: 4%;
+  background-image: url(images/bg.jpg);
+  border-radius: 2%;
+
+}
